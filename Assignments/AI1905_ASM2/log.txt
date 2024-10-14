@@ -1,0 +1,734 @@
+
+
+Assessment for student SE170271
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE170271: 6.0
+
+
+Assessment for student SE183341
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE183341: 9.0
+
+
+Assessment for student SE184346
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE184346: 9.0
+
+
+Assessment for student SE192079
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle message failed, mark +  0.5
+  result passed, mark + 1.0
+Test 06: handle advanced deleting from tail
+  -- handle message failed, mark +  0.5
+  result passed, mark + 1.0
+
+Total mark for student SE192079: 9.0
+
+
+Assessment for student SE192447
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE192447: 9.0
+
+
+Assessment for student SE192617
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE192617: 9.0
+
+
+Assessment for student SE192847
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE192847: 9.0
+
+
+Assessment for student SE192927
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result failed!
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE192927: 3.0
+
+
+Assessment for student SE193091
+  -- student's work not found! 
+
+Assessment for student SE193123
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE193123: 6.0
+
+
+Assessment for student SE193488
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  -- handle failed!
+
+Total mark for student SE193488: 8.0
+
+
+Assessment for student SE193510
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE193510: 6.0
+
+
+Assessment for student SE193522
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE193522: 9.0
+
+
+Assessment for student SE193537
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- handle message failed, mark +  0.5
+  result passed, mark + 1.0
+
+Total mark for student SE193537: 7.5
+
+
+Assessment for student SE193670
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  -- handle failed!
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  -- handle failed!
+
+Total mark for student SE193670: 6.0
+
+
+Assessment for student SE193674
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE193674: 9.0
+
+
+Assessment for student SE193716
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE193716: 9.0
+
+
+Assessment for student SE193727
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  -- handle failed!
+
+Total mark for student SE193727: 6.0
+
+
+Assessment for student SE193728
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  -- insert into tail failed!
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  -- wrong action!
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- insert into tail failed!
+
+Total mark for student SE193728: 3.0
+
+
+Assessment for student SE193800
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle message failed, mark +  0.5
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle message failed, mark +  0.5
+  result passed, mark + 1.0
+
+Total mark for student SE193800: 8.0
+
+
+Assessment for student SE193802
+Test 00: check pop at head, tail:
+  show_first failed!
+  show_last failed!
+Test 01: check insert to head, list from head
+  result failed!
+Test 02: check insert to tail, list from tail
+  result failed!
+Test 03: handle deleting from head
+  -- wrong action!
+Test 04: handle deleting from tail
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  -- handle failed!
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  -- handle failed!
+
+Total mark for student SE193802: 0
+
+
+Assessment for student SE193868
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE193868: 6.0
+
+
+Assessment for student SE193956
+Test 00: check pop at head, tail:
+4
+  show_first failed!
+2
+  show_last failed!
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE193956: 5
+
+
+Assessment for student SE193979
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result failed!
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  result failed!
+
+Total mark for student SE193979: 4.0
+
+
+Assessment for student SE194067
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  -- action failed!
+  show_last failed!
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE194067: 5.5
+
+
+Assessment for student SE194244
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE194244: 10.0
+
+
+Assessment for student SE194271
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+
+Total mark for student SE194271: 9.0
+
+
+Assessment for student SE194343
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE194343: 6.0
+
+
+Assessment for student SE194344
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  -- handle failed!
+
+Total mark for student SE194344: 8.0
+
+
+Assessment for student SE194447
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result failed!
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  -- handle failed!
+
+Total mark for student SE194447: 6.0
+
+
+Assessment for student SE194475
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- wrong action!
+Test 06: handle advanced deleting from tail
+  -- wrong action!
+
+Total mark for student SE194475: 6.0
+
+
+Assessment for student SE194522
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result passed, mark + 1
+Test 03: handle deleting from head
+  result failed!
+Test 04: handle deleting from tail
+  result passed, mark + 2
+Test 05: handle advanced deleting from head
+  -- handle message failed, mark +  0.5
+  result failed!
+Test 06: handle advanced deleting from tail
+  -- handle message failed, mark +  0.5
+  result passed, mark + 1.0
+
+Total mark for student SE194522: 7.0
+
+
+Assessment for student SE194561
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  -- list from tail failed!
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- handle passed, mark +  1.0
+  result passed, mark + 1.0
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  result failed!
+
+Total mark for student SE194561: 6.0
+
+
+Assessment for student SE194859
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result failed!
+Test 03: handle deleting from head
+  -- wrong action!
+Test 04: handle deleting from tail
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  -- handle failed!
+Test 06: handle advanced deleting from tail
+  -- handle failed!
+  -- handle failed!
+
+Total mark for student SE194859: 2.0
+
+
+Assessment for student SE196213
+Test 00: check pop at head, tail:
+  show_first passed, mark + 0.5
+  show_last passed, mark + 0.5
+Test 01: check insert to head, list from head
+  result passed, mark + 1
+Test 02: check insert to tail, list from tail
+  result failed!
+Test 03: handle deleting from head
+  result passed, mark + 1
+Test 04: handle deleting from tail
+  -- wrong action!
+Test 05: handle advanced deleting from head
+  -- handle failed!
+  -- handle failed!
+Test 06: handle advanced deleting from tail
+  -- handle passed, mark +  1.0
+  -- handle failed!
+
+Total mark for student SE196213: 4.0
